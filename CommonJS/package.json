@@ -1,0 +1,16 @@
+{
+  "name": "common_js",
+  "version": "1.0.0",
+  "description": "Projeto demonstrando módulos CommonJS no Node.js",
+  "main": "main.js",
+  
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Guilherme",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
+

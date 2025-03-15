@@ -1,0 +1,16 @@
+{
+  "name": "es_modules",
+  "version": "1.0.0",
+  "description": "Projeto demonstrando módulos ES6 no Node.js usando import/export",
+  "type": "module",
+  "main": "main.js",
+  
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "guilherme",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
